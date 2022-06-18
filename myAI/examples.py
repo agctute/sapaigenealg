@@ -30,7 +30,7 @@ def stat_function(mult, func, x):
     }
     return switch.get(func)
 
-def simple_value(att, hp, type, status):
+#def simple_value(att, hp, type, status):
 
 
 def value(combat_multiplier, function, att, hp, long_val, faint_val, status_val):
